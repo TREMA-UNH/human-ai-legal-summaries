@@ -1,0 +1,16 @@
+name: nextpoint
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pydantic
+  - boto3
+  - tenacity
+  - spacy
+  - matplotlib
+  - seaborn
+  - plotly
+  - termcolor
+  - tabulate
+  - openpyxl
+prefix: /opt/anaconda3/envs/nextpoint

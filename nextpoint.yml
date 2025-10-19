@@ -1,0 +1,6 @@
+name: nextpoint
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+prefix: /home/nf1104/anaconda3/envs/nextpoint
