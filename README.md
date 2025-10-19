@@ -10,6 +10,7 @@ The repository provides tools for transcript processing, nugget extraction, cita
 
 https://github.com/user-attachments/assets/c22077f4-5583-44db-9fc6-551e129c9ee2
 
+https://github.com/user-attachments/assets/1a2521c0-ff77-4fe9-bd47-ea4e71c1aafd
 
 ## Overview
 
